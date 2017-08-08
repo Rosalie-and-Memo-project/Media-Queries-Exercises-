@@ -1,0 +1,31 @@
+
+
+
+@media screen and (max-width:500px) {
+
+    .header-img img {
+        width: 100%;
+    }
+
+    h1 {text-align:center;
+    }
+
+    .alert-info a {
+        text-align:center;
+        display:block;
+    }
+
+    .nav-links li {
+        height:25px;
+        border:20;
+        text-align:center;
+        background-color:black;
+        font-weight: bold;
+        color: green;
+        margin-bottom:10px;
+        list-style-type:none;
+        margin-left: 35px;
+    }
+}
+
+
